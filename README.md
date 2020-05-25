@@ -1,2 +1,2 @@
-Tic-tac-toe 
-Project from JetBrains Academy 
+# Tic-tac-toe 
+## Project from JetBrains Academy 
